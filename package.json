@@ -1,0 +1,25 @@
+{
+  "name": "validator-br",
+  "version": "0.0.0",
+  "description": "",
+  "main": "dist/index.ts",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CassioGangrel/validator-br.git"
+  },
+  "keywords": [],
+  "author": "Cássio Fiúza da Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CassioGangrel/validator-br/issues"
+  },
+  "homepage": "https://github.com/CassioGangrel/validator-br#readme",
+  "devDependencies": {
+    "faker-br": "^0.4.1",
+    "typescript": "^4.8.3",
+    "vitest": "^0.23.2"
+  }
+}
